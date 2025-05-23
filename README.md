@@ -7,7 +7,7 @@
 
 ---
 
-## 📱 Follow My Socials
+## 📱 My Socials 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/devanshu-desai-70704b1ab/" target="_blank">
@@ -16,6 +16,10 @@
   <a href="https://www.instagram.com/desai_devanshu/" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+    <a href="https://portfolio-devanshu.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+
   
 </p>
 
